@@ -4,6 +4,8 @@ Công cụ dịch Anh → Việt khi chơi Alien Shooter World. Có nút nổi, 
 
 **[Tải APK mới nhất](https://github.com/Thanhnghia889/alien-viet-updates/releases/latest)**
 
+Từ 0.4.0: giữ và kéo bong bóng để hiện ô vuông **×** ở giữa phía dưới màn hình. Khi bong bóng vào ô, ô đổi đỏ; thả tay để đóng bong bóng và dừng phiên chia sẻ màn hình. Thả ngoài ô để tiếp tục dùng. Áp dụng cả nút VI và nút × đang ẩn/hiện bản dịch.
+
 ## Cài và cập nhật
 
 1. Mở trang bản mới nhất, tải tệp `AlienViet-*.apk`, rồi xác nhận cài đặt trên Android.
