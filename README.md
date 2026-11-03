@@ -4,6 +4,8 @@ Công cụ dịch Anh → Việt khi chơi Alien Shooter World. Có nút nổi, 
 
 **[Tải APK mới nhất](https://github.com/Thanhnghia889/alien-viet-updates/releases/latest)**
 
+Từ 0.5.0: dịch tối đa 3 đoạn đồng thời và hiện dần kết quả. Chữ trùng chỉ dịch một lần, từ điển/số-ký hiệu/bản dịch đã nhớ được ưu tiên hiện ngay sau OCR. App lưu riêng trên thiết bị tối đa 400 đoạn chữ và bản dịch để dùng lại khi mở lại app; xóa dữ liệu app trong cài đặt Android sẽ xóa bộ nhớ này. Tốc độ thật phụ thuộc thiết bị và dịch vụ mạng; chưa có số đo trên điện thoại thực.
+
 Từ 0.4.0: giữ và kéo bong bóng để hiện ô vuông **×** ở giữa phía dưới màn hình. Khi bong bóng vào ô, ô đổi đỏ; thả tay để đóng bong bóng và dừng phiên chia sẻ màn hình. Thả ngoài ô để tiếp tục dùng. Áp dụng cả nút VI và nút × đang ẩn/hiện bản dịch.
 
 ## Cài và cập nhật
